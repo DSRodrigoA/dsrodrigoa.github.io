@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfólio de Projetos | Data Science on Home</title>
+    <link>https://dsrodrigoa.github.io/online_portfolio/</link>
+    <description>Recent content in Portfólio de Projetos | Data Science on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dsrodrigoa.github.io/online_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://dsrodrigoa.github.io/online_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/online_portfolio/about/</guid>
+      <description>Comecei minha carreira como Técnico Químico na Ambev, onde atuei por quase 10 anos. Como técnico Sênior e além da rotina analítica habitual, trabalhei em diversos projetos da área de Qualidade Assegurada e áreas relacionadas. Além do Controle de Qualidade, pude trabalhar com Análise Aplicada para controle de processos e equipamentos de medição, gestão do plano de manutenção e calibração de equipamentos de toda a planta industrial. Atuei também na digestão de dados de Marketing para melhoria de resultados e reversão de KPI&amp;rsquo;s negativos, buscando sanar falhas internas de processo para melhoria contínua.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://dsrodrigoa.github.io/online_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/online_portfolio/contact/</guid>
+      <description>Encontre-me nas redes sociais:   Facebook    Linkedin    Twitter    Github    Entre em contato por email   </description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>https://dsrodrigoa.github.io/online_portfolio/curriculum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/online_portfolio/curriculum/</guid>
+      <description>Dados Pessoais Nascido e residente em Anápolis, Goiás. 32 anos. Casado
+Contato: (062) &amp;hellip;&amp;hellip; | @ E-Mail: EngRodrigoArruda@Gmail.com
+Linkedin: https://www.linkedin.com/in/rodrigo-arruda-8449a8200/
+Portfólio Online de Projetos: https://dsrodrigoa.github.io/online_portfolio/
+ Técnico Químico | Engenheiro de Produção | Data Scientist Alinhar experiência profissional com novos conhecimentos na área de Data Science e análise de dados e contribuir com soluções para o desenvolvimento da área de ciência de dados.  COMPETÊNCIAS E SKILLS          •	Controle de Qualidade • Big Data Analytics   • Relatórios e Dashboards • Data Mining   •	Análise estatística de dados • Machine Learning   •	Tomada de decisão baseada em dados • Visualização de dados   •	Comunicação e treinamentos • Construção de relatórios   •	KPI’s Dashboards • Microsoft Auzure Machine Learning     FORMAÇÃO ACADÊMICA E ESPECIALIZAÇÕES   Formação Cientista de Dados - Data Science Academy - Previsão de conclusão 10/2021.</description>
+    </item>
+    
+    <item>
+      <title>Loading</title>
+      <link>https://dsrodrigoa.github.io/online_portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/online_portfolio/post/project-2/</guid>
+      <description>Loading&amp;hellip;
+  </description>
+    </item>
+    
+    <item>
+      <title>Projeto 01: Data Mining - Market Basket Analysis</title>
+      <link>https://dsrodrigoa.github.io/online_portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/online_portfolio/post/project-1/</guid>
+      <description>Estudando e antecipando o comportamento do cliente. A modelagem do comportamento do cliente sempre foi - e sempre será - uma das inteligências mais buscadas por empresas que visam aumentar suas vendas, sua lucratividade e, especialmente, sua acertividade em relação ao que oferecer em suas prateleias, sejam elas físicas ou online.
+As Regras de Associação (ou Association Rules), veio para ajudar nessa modelagem e tentar prever o comportamento de compra do cliente por meio dos dados transacionais da empresa.</description>
+    </item>
+    
+  </channel>
+</rss>

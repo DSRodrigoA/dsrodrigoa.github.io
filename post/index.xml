@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Home</title>
+    <link>https://dsrodrigoa.github.io/online_portfolio/post/</link>
+    <description>Recent content in Projetos on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://dsrodrigoa.github.io/online_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loading</title>
+      <link>https://dsrodrigoa.github.io/online_portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/online_portfolio/post/project-2/</guid>
+      <description>Loading&amp;hellip;
+  </description>
+    </item>
+    
+    <item>
+      <title>Projeto 01: Data Mining - Market Basket Analysis</title>
+      <link>https://dsrodrigoa.github.io/online_portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/online_portfolio/post/project-1/</guid>
+      <description>Estudando e antecipando o comportamento do cliente. A modelagem do comportamento do cliente sempre foi - e sempre será - uma das inteligências mais buscadas por empresas que visam aumentar suas vendas, sua lucratividade e, especialmente, sua acertividade em relação ao que oferecer em suas prateleias, sejam elas físicas ou online.
+As Regras de Associação (ou Association Rules), veio para ajudar nessa modelagem e tentar prever o comportamento de compra do cliente por meio dos dados transacionais da empresa.</description>
+    </item>
+    
+  </channel>
+</rss>
