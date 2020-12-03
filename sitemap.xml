@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dsrodrigoa.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://dsrodrigoa.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -16,12 +10,6 @@
   
   <url>
     <loc>https://dsrodrigoa.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dsrodrigoa.github.io/curriculum/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -46,6 +34,12 @@
   
   <url>
     <loc>https://dsrodrigoa.github.io/post/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsrodrigoa.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
