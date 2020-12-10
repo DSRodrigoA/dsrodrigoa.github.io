@@ -16,16 +16,6 @@
     </item>
     
     <item>
-      <title>Loading</title>
-      <link>https://dsrodrigoa.github.io/post/project-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dsrodrigoa.github.io/post/project-2/</guid>
-      <description>Loading&amp;hellip;
-  </description>
-    </item>
-    
-    <item>
       <title>Projeto 01: Data Mining - Market Basket Analysis</title>
       <link>https://dsrodrigoa.github.io/post/project-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -33,6 +23,17 @@
       <guid>https://dsrodrigoa.github.io/post/project-1/</guid>
       <description>Estudando e antecipando o comportamento do cliente. A modelagem do comportamento do cliente sempre foi - e sempre será - uma das inteligências mais buscadas por empresas que visam aumentar suas vendas, sua lucratividade e, especialmente, sua acertividade em relação ao que oferecer em suas prateleias, sejam elas físicas ou online.
 As Regras de Associação (ou Association Rules), veio para ajudar nessa modelagem e tentar prever o comportamento de compra do cliente por meio dos dados transacionais da empresa.</description>
+    </item>
+    
+    <item>
+      <title>Projeto 02 - Customer Churn</title>
+      <link>https://dsrodrigoa.github.io/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/post/project-2/</guid>
+      <description>  Customer Churn - Retenção/Perda de Clientes O indicador Churn, é uma importante medida para medir a taxa de adesão de clientes, sendo possível medir o &amp;ldquo;turnover&amp;rdquo; ou índice de cancelamento/abandono de um serviço pelos mesmos.
+O Customer Churn é uma análise de classificação por Machine Learning muito utilizada para prever esse comportamento e, assim, definir medidas para reverter o cenário.
+ Veja aqui o desenvolvimento do projeto   Repositório do projeto no GitHub  </description>
     </item>
     
     <item>
