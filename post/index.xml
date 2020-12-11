@@ -22,9 +22,8 @@ As Regras de Associação (ou Association Rules), veio para ajudar nessa modelag
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dsrodrigoa.github.io/post/project-2/</guid>
-      <description>  Customer Churn - Retenção/Perda de Clientes O indicador Churn, é uma importante medida para medir a taxa de adesão de clientes, sendo possível medir o &amp;ldquo;turnover&amp;rdquo; ou índice de cancelamento/abandono de um serviço pelos mesmos.
-O Customer Churn é uma análise de classificação por Machine Learning muito utilizada para prever esse comportamento e, assim, definir medidas para reverter o cenário.
- Veja aqui o desenvolvimento do projeto   Repositório do projeto no GitHub  </description>
+      <description>Customer Churn - Retenção/Perda de Clientes O índice &amp;lsquo;churn&amp;rsquo;, é o índice que mede a saída de clientes ou materiais mediante à um período. O churn, conhecido também como &amp;lsquo;índice de atrito&amp;rsquo;, diz respeito à saída de clientes de uma empresa, e como consequência, perda de receita.
+Normalmente, o churn é registrado em uma base de dados de cadastro de clientes, relacionando o tempo de permanência de um determinado cliente com outros fatores que podem - ou não - acarretar sua saída ou abandono de serviço.</description>
     </item>
     
   </channel>
