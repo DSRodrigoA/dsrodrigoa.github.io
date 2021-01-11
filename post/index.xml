@@ -17,13 +17,23 @@ As Regras de Associação (ou Association Rules), veio para ajudar nessa modelag
     </item>
     
     <item>
-      <title>Projeto 02 - Customer Churn</title>
+      <title>Projeto 02 - Machine Learning - Customer Churn</title>
       <link>https://dsrodrigoa.github.io/post/project-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dsrodrigoa.github.io/post/project-2/</guid>
       <description>Customer Churn - Retenção/Perda de Clientes O índice &amp;lsquo;churn&amp;rsquo;, é o índice que mede a saída de clientes ou materiais mediante à um período. O churn, conhecido também como &amp;lsquo;índice de atrito&amp;rsquo;, diz respeito à saída de clientes de uma empresa, e como consequência, perda de receita.
 Normalmente, o churn é registrado em uma base de dados de cadastro de clientes, relacionando o tempo de permanência de um determinado cliente com outros fatores que podem - ou não - acarretar sua saída ou abandono de serviço.</description>
+    </item>
+    
+    <item>
+      <title>Projeto 03 - Business Intelligence - Goiás Market</title>
+      <link>https://dsrodrigoa.github.io/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/post/project-3/</guid>
+      <description>Business Intelligence - Goiás Market O Business Intelligence, ou BI, é um importante conceito de gerenciamento de dados que deve ser considerado na gestão de uma empresa. Os dados que são gerados por uma empresa, podem ser considerados um dos ativos mais valiosos para os negócios, com uma cultura data-driven como vantagem competitiva.
+O BI não é apenas uma ferramenta, mas um conjunto de métodos que gerencia os dados e metadados gerados em uma empresa, muitas vezes em um banco de dados transacional, e que ficam armazenados como forma de histórico.</description>
     </item>
     
   </channel>
