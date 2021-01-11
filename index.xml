@@ -36,13 +36,13 @@ Normalmente, o churn é registrado em uma base de dados de cadastro de clientes,
     </item>
     
     <item>
-      <title>Projeto 03 - Business Intelligence - Goiás Market</title>
+      <title>Projeto 03 - Business Intelligence - Data Warehouse - Goiás Market</title>
       <link>https://dsrodrigoa.github.io/post/project-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dsrodrigoa.github.io/post/project-3/</guid>
-      <description>Business Intelligence - Goiás Market O Business Intelligence, ou BI, é um importante conceito de gerenciamento de dados que deve ser considerado na gestão de uma empresa. Os dados que são gerados por uma empresa, podem ser considerados um dos ativos mais valiosos para os negócios, com uma cultura data-driven como vantagem competitiva.
-O BI não é apenas uma ferramenta, mas um conjunto de métodos que gerencia os dados e metadados gerados em uma empresa, muitas vezes em um banco de dados transacional, e que ficam armazenados como forma de histórico.</description>
+      <description>Business Intelligence - Goiás Market O Business Intelligence, ou BI, é um importante conceito de gerenciamento de dados que deve ser considerado na gestão de uma empresa. Os dados gerados podem ser considerados um dos ativos mais valiosos para os negócios, com uma cultura data-driven como vantagem competitiva.
+O BI não é apenas uma ferramenta, mas um conjunto de métodos que gerencia os dados e metadados gerados em uma empresa, muitas vezes em um banco de dados transacional, e que ficam armazenados como forma de histórico, em bancos OLTP.</description>
     </item>
     
     <item>
