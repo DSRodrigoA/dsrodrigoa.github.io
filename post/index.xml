@@ -47,5 +47,15 @@ Para este projeto, integraremos o Python ao SQL Server a fim de se obter dados d
 Dessa forma, pode-se beneficiar ao máximo da rica disponibilidade dos dados armazenados no Data Warehouse e gerar insights valiosos através de Analytics, Machine Learning e Data Mining.</description>
     </item>
     
+    <item>
+      <title>Projeto 05 - DataViz - Análise de Satisfação do Cliente do e-commerce no Brasil - Power BI</title>
+      <link>https://dsrodrigoa.github.io/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dsrodrigoa.github.io/post/project-5/</guid>
+      <description>Business Intelligence - Power BI - Olist - e-Commerce Brasil A Olis (https://olist.com/) é uma startup brasileira que atua no segmento de e-commerece, por meio de marketplace. É uma plataforma de vendas online que concentra diversos fornecedores e vendedores de diversos markplaces em um único lugar, facilitando a interface entre o vendedor e o cliente final.
+O e-commerece no Brasil representa um grande desafio para a cadeia logística, em vista de ser um país de proporções continentais com um público ativo e assíduo em compras online.</description>
+    </item>
+    
   </channel>
 </rss>
